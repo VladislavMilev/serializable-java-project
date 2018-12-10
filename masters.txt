@@ -1,0 +1,22 @@
+[
+  {
+    "NAME": "John",
+    "SURNAME": "Doe",
+    "AGE": 20
+  },
+  {
+    "NAME": "Andrew",
+    "SURNAME": "Johanson",
+    "AGE": 22
+  },
+  {
+    "NAME": "Roman",
+    "SURNAME": "Simple",
+    "AGE": 21
+  },
+  {
+    "NAME": "Jane",
+    "SURNAME": "Cutak",
+    "AGE": 42
+  }
+]
